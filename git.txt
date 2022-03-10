@@ -1,0 +1,13 @@
+http://nawin.ece.engr.tu.ac.th/cn102/labs/lab_00.html
+
+http://nawin.ece.engr.tu.ac.th/cn102/labs/lab_00.html
+
+-download git 
+https://git-scm.com/downloads
+
+-test 
+git version
+
+-To create the directory $HOME/.config/git
+>$ mkdir -p $HOME/.config/git
+
